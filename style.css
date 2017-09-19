@@ -1,0 +1,101 @@
+body {
+	background-color: #fff;
+	
+}
+
+table {
+	border-collapse: collapse;
+	border-width: 1px;
+	border-color: #fff;
+}
+td {
+	font-size: 11px; 
+	font-family: Verdana, Arial;
+	background-color: #fff;
+}
+
+a:link   { 
+	color: #99cc33; 
+	font-weight: bold; 
+	text-decoration: none 
+}
+
+a:visited { 
+	color: #9933cc; 
+	font-weight: bold; 
+	text-decoration: none 
+}
+
+a:hover { 
+color: #cc3399; 
+font-weight: bold; 
+text-decoration: none 
+}
+
+.login_text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+	text-decoration: none;
+}
+.login_link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+	text-decoration: none;
+}
+.login_link:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.date_link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+	text-decoration: none;
+}
+
+.date_link:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.arrow_link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.arrow_link:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+div.file_list_item {
+	position: static;
+}
+
+div.menu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	list-style: none;
+}
+
+/* Login Styles */
+.login { display: block; width: 450px; border-color: #333; border-top: 1px dashed;}
+
+/* File List Styles */
+.fli { margin: 10px 0 0 0px; }
+.fli .index { vertical-align: 150px; }
+.fli .delete { vertical-align: 10px; }
+.fli .size { vertical-align: 150px; }
+.fli .image_title { display: block; }
