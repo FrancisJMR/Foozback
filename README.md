@@ -1,11 +1,11 @@
 # Foozback
 ## A single-page PHP AJAX framework
 
-Foozback was a project started in 2007 to create simple AJAX one-page websites in PHP with automatic DOM id's and other neat features using prototype.js.
+Foozback was a project started in 2007 to create simple AJAX one-page websites in PHP with automatic DOM id's and other neat features using prototype.js. The goal was to keep code as short as possible while minimizing the number of refreshs from a user interface perspective.
 
 ## Example
 
-### A simple image thunmnail listing page with admin login to add/delete images to the media folder.
+A simple yet full image thumbnail listing page with admin login to add/delete images to the media folder in less than 50 lines of code.
 
 ```
 <?php
